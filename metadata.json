@@ -1,0 +1,7 @@
+{
+  "name": "MedEndorse AI",
+  "description": "A professional medical app using AI for dictation, medical image analysis, and generating differential diagnoses to assist healthcare professionals in their workflow.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
